@@ -1,0 +1,13 @@
+lib
+lib/*
+out
+out/*
+cache
+cache/*
+pytest_cache
+pytest_cache/*
+script
+.DS_Store
+
+foundry.toml
+.env
